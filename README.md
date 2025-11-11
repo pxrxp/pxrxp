@@ -1,5 +1,5 @@
 <p align="center">
-  This is my digital workshop and notebook—a place where I deconstruct ideas, build things to understand them, and share my findings along the way.
+  This is my digital workshop —a place where I deconstruct ideas, build things to understand them, and share my findings along the way.
 </p>
 
 ---
