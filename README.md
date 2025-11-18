@@ -30,7 +30,9 @@ I learn by doing. This is my space to take ideas apart, build things to make sen
   
 * 🚀 **Systems Programming**, because I can make the machine behave exactly the way I want.
 
-* 🎨 **Low-Level Graphics**, because it’s fascinating to see what we can build from a simple grid of RGB pixels.
+* 🌐 **Full-Stack Architecture**, because it lets me turn a bare idea into a functioning reality end-to-end.
+
+* λ **Functional Programming**, because the different paradigm it provides can turn complex imperative logic into a few lines of elegant, intuitive code.
 
 * 🧠 **Machine Learning & Neural Networks**, because they achieve things that traditional imperative code just isn’t built to express.
 
@@ -38,9 +40,7 @@ I learn by doing. This is my space to take ideas apart, build things to make sen
 
 * 🖥️ **Operating Systems**, because the fact that we built all this structure and abstraction from raw 1s and 0s still feels unreal.
 
-* λ **Functional Programming**, because the different paradigm it provides can turn complex imperative logic into a few lines of elegant, intuitive code.
-
-* 🌐 **Full-Stack Architecture**, because it lets me turn a bare idea into a functioning reality end-to-end.
+* 🎨 **Low-Level Graphics**, because it’s fascinating to see what we can build from a simple grid of RGB pixels.
 
 </details>
 
